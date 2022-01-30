@@ -1,0 +1,5 @@
+{
+    "files.associations": {
+        "esp_intr_alloc.h": "c"
+    }
+}
